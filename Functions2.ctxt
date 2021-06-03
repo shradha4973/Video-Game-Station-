@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Functions2
+comment1.params=stationName\ videoGameName\ rate
+comment1.target=void\ addObject(java.lang.String,\ java.lang.String,\ int)
+comment2.params=index
+comment2.target=void\ removeObject(int)
+comment3.params=indexNo\ customerName\ customerType\ bookingDate\ duration
+comment3.target=void\ store(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=indexNo
+comment4.target=void\ free(int)
+comment5.params=
+comment5.target=void\ list()
+comment6.params=name\ maxRate
+comment6.target=void\ search(java.lang.String,\ int)
+comment7.params=
+comment7.target=void\ order()
+comment8.params=
+comment8.target=void\ ascending()
+numComments=9
